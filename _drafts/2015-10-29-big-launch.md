@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Courtland Alves Launches Blog"
+title: "Don't wait for the big launch"
 date: 2015-10-29
 ---
 
